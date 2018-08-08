@@ -4,8 +4,6 @@
 //
 //  Created by Ari Gonta on 8/8/18.
 //
-
-import Foundation
 import AVFoundation
 
 public func SpeakUp(message: String, language: String, rate: Float, volume: Float, pitchMult: Float) {
