@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/ari/MyLib'
+  s.homepage         = 'https://github.com/Badmiaou/iOSSpeak.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'ari' => 'arigonta@gmail.com' }
-  s.source           = { :git => 'https://github.com/ari/MyLib.git', :tag => s.version.to_s }
+  s.author           = { 'Mohammad Rahimyarza' => 'rahimyarz@gmail.com' }
+  s.source           = { :git => 'https://github.com/Badmiaou/iOSSpeak.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
