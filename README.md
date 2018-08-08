@@ -22,7 +22,7 @@ pod 'MyLib'
 
 ## Author
 
-ari, arigonta@gmail.com
+Mohammad Rahimyarza, rahimyarz@gmail.com
 
 ## License
 
